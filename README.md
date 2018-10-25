@@ -1,0 +1,2 @@
+# Guessing-game
+Guess number of squares with same color.Your quest consist from 20 levels.In each game you have headline where is written which squares you have to guess.Every game has time limit which you have to guess your squares.Every game upgrades number of squares but with different color.First five levels contain one color, second two colors and so on.Time limit is bigger in every game for 5 seconds.Enjoy :) .
